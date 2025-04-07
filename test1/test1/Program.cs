@@ -11,7 +11,7 @@ namespace test1
         static void Main(string[] args)
         {
             Console.Read();
-            Console.Read(2);
+            Console.WriteLine('2');
         }
     }
 }
