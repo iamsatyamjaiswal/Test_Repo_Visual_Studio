@@ -12,7 +12,14 @@ namespace test1
         {
             Console.Read();
             Console.WriteLine('2');
-            Console.WriteLine('Master Branch');
+            Console.WriteLine("Master Branch");
+            Console.Read();
+            Console.WriteLine('2');
+            Console.WriteLine("Master Branch");
+            Console.Read();
+            Console.WriteLine('2');
+            Console.WriteLine("Master Branch");
+
         }
     }
 }
