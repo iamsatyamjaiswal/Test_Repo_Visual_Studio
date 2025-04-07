@@ -13,6 +13,7 @@ namespace test1
             Console.Read();
             Console.WriteLine('2');
             Console.WriteLine('3');
+            ffgg
             
         }
     }
